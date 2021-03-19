@@ -1,7 +1,3 @@
-
-
-
-
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
 Submitted by: **NAME**
@@ -41,18 +37,18 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![](https://i.imgur.com/1G17tlz.gif)
 
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[Nothing outside]
+[nothing outside of the given contexts]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[Converting to Gif and uploading it to Github]
+[creating a gif and adding it to the Github]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[everything was clear]
+[not much]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [Github]
